@@ -24,7 +24,6 @@ format:
     theme: 
       light: [cosmo, base_colors_light.scss, custom.scss]
       # dark: [cosmo, base_colors_dark.scss, custom.scss]
-    css: styles.css
     toc: true
     toc-expand: true
     toc-title: " "
