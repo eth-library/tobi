@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Towards Open Bibliometric Indicators (TOBI) is a project co-founded by the ETH Library and swissuniversities within the Open Science Program. The project has started in early 2023. The final results are planned to be published in late 2024."
+  },
+  {
+    "objectID": "about.html#why-tobi",
+    "href": "about.html#why-tobi",
+    "title": "About",
+    "section": "Why TOBI?",
+    "text": "Why TOBI?\n\nDORA Declaration requires open data sources\nDORA Declaration has been introduced in 2013 as a countermeasure to the overreliance on journal-driven metrics to estimate quality of researchers and performance of individuals and institutions. Among its recommendations, points #11-#14 call for openness and transparency in data driven methods of performing research assessment.\n\n\n\n\n\n\nRead the full DORA Recommendations #11-#14\n\n\n\n\n\nFor organizations that supply metrics:\n11. Be open and transparent by providing data and methods used to calculate all metrics.\n12. Provide the data under a licence that allows unrestricted reuse, and provide computational access to data, where possible.\n13. Be clear that inappropriate manipulation of metrics will not be tolerated; be explicit about what constitutes inappropriate manipulation and what measures will be taken to combat this.\n14. Account for the variation in article types (e.g., reviews versus research articles), and in different subject areas when metrics are used, aggregated, or compared.\n\n\n\nAt the core of data-driven research assessment is a statistical evaluation of scientific publications and their citations, basing on which we can estimate the popularity or impact of particular research studies. Until now, the “gold standard” for such an evaluation was to use bibliometric data gathered in one of the commercial databases, such as Web of Science or Scopus. Unfortunately, those databases come with very prohibitive licenses and proprietary methods of data curation. This means that using them for research assessment will never be fully conform with DORA recommendations mentioned above, and open alternatives are needed.\nIn recent years, many new sources of open bibliometric data have been published. However, some quality characteristics of these datasets remain unclear, such as affiliation disambiguation, missing values, metadata availability, and under-/overrepresentation of particular research fields and geographic regions. So despite the data source being open, the bibliometric indicators calculated based on such data cannot be fully trusted, which limits their reliability and application scope.\n\n\nSituation in Switzerland\nIn Switzerland, there is a growing effort for establishing fair, DORA-compliant research assessment indicators adapted for the Swiss community. However, for the reasons described above, this effort cannot fully succeed without an open, high-quality dataset, which covers metadata of research outputs (such as publications, datasets, conference proceedings…) produced by researchers affiliated at Swiss HEIs.\nTOBI aims to contribute to this effort by systematically evaluating existing open bibliometric and altmetric data sources in a subset related to Swiss HEIs. The analysis will help to identify critical gaps in data quality, while addressing the issue of deduplicating and merging of items, as well as improving the interpretability of scientometric indicators.\n\n\nAims of TOBI\nThe results of the project will be made publicly available and will show to which extent open bibliometric data could be a viable alternative to commercial bibliometric datasets for the Swiss research community.\nAdditionally, associated open-source code will be made available in this project to empower institutions to try out and scrutinize classical and novel research-assessment indicators on their own.\nThe project outcome will be relevant not only for the research output assessment of individual Swiss HEIs (e.g., for evaluating their strength and weaknesses), but also for accessible and transparent research-monitoring initiatives – e.g., of Open Access publishing, research funding, or technology transfer in Switzerland."
+  },
+  {
+    "objectID": "about.html#open-peer-review",
+    "href": "about.html#open-peer-review",
+    "title": "About",
+    "section": "Open Peer Review",
+    "text": "Open Peer Review\nswissuniversities follows the open peer review principle. This means that anyone can access the abstract and the reviews of the TOBI proposal here."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "We will be happy to hear from you: mail"
+  },
+  {
+    "objectID": "disclaimer.html",
+    "href": "disclaimer.html",
+    "title": "Legal notice",
+    "section": "",
+    "text": "We are using GoatCounter for tracking the traffic on this website. GoatCounter does not track any personal data, neither it uses cookies.\nOtherwise, ETH Library’s and ETH Zurich’s legal notices are in effect:\n\nDisclaimer & copyright\n\nData protection"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nTOBI:Towards Open Bibliometric Indicators\n",
+    "section": "",
+    "text": "TOBI is a project lead by the ETH Library and co-funded by swissuniversities. It aims to evaluate the quality of open bibliometric data sources regarding research affiliated with Swiss Higher Education Institutions. The project has started in Q1 2023 and will wrap up in Q4 2024."
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "\nTOBI:Towards Open Bibliometric Indicators\n",
+    "section": "News",
+    "text": "News\n…no news yet, stay tuned!"
+  },
+  {
+    "objectID": "project_team.html",
+    "href": "project_team.html",
+    "title": "Team",
+    "section": "",
+    "text": "TOBI is a project hosted by the Knowledge Management Group at the ETH Library of ETH Zurich. The group is led by Dr. David Johann and since 2020 focuses on providing scientometric services for the ETH community."
+  },
+  {
+    "objectID": "project_team.html#project-team",
+    "href": "project_team.html#project-team",
+    "title": "Team",
+    "section": "Project Team",
+    "text": "Project Team\n\nDr. Teresa Kubacka\nTeresa is the project lead of TOBI. She is a data scientist with a background in physics. At the ETH Library since 2021 and with TOBI since its beginning.\n\n\nSimon Willemin\nSimon is a data scientist with a double background in mathematics and humanities. He joined the project early 2023.\n\n\nMahmoud Hemila\nMahmoud is a data scientist with a background in information science and data archiving. He has been supporting the Knowledge Management group in scientometric analyses since 2020 and joined the project in 2023.\n\n\nDr. Julian Dederke\nJulian is a specialist in research data management, his background is political science. He is supporting the project as an analyst."
+  },
+  {
+    "objectID": "project_team.html#extended-team",
+    "href": "project_team.html#extended-team",
+    "title": "Team",
+    "section": "Extended Team",
+    "text": "Extended Team\nOther people who support the project:\n\nDr. David Johann, Knowledge Management, ETH Library\nAnnette Guignard, Knowledge Management, ETH Library\n\nDr. Roland Suri, Knowledge Management, ETH Library"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Deliverables of the project will be gradually made available here."
+  },
+  {
+    "objectID": "resources.html#deliverables",
+    "href": "resources.html#deliverables",
+    "title": "Resources",
+    "section": "",
+    "text": "Deliverables of the project will be gradually made available here."
+  },
+  {
+    "objectID": "resources.html#other-resources",
+    "href": "resources.html#other-resources",
+    "title": "Resources",
+    "section": "Other resources",
+    "text": "Other resources\n\nSwiss Year Of Scientometrics: another project led by our group to promote responsible research assessment in Switzerland\nOpenAlex: open bibliometric database\nCurtis Open Knowledge Initiative - Open Metadata Report: comparing open bibliometric databases on a global scale\n…"
+  }
+]
