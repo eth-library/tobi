@@ -1,0 +1,26 @@
+---
+toc: false
+---
+
+::: {.column-screen}
+
+<div id="main_title">
+<h1>TOBI:</br>Towards Open Bibliometric Indicators</h1> 
+</div>
+
+:::
+
+
+<div id="logos">
+<div class="logo"><img src="resources/eth_logo_45h.png"></div>
+<div class="logo">ETH Library</div>
+<div class="logo"><img src="resources/swissuniversities_Logo.svg" width="140px"></div>
+</div>
+
+
+
+TOBI is a project lead by the ETH Library and co-funded by swissuniversities. It aims to evaluate the quality of open bibliometric data sources regarding research affiliated with Swiss Higher Education Institutions. The project has started in Q1 2023 and will wrap up in Q4 2024.   
+
+
+## News 
+...no news yet, stay tuned! 

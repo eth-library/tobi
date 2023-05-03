@@ -1,0 +1,43 @@
+project:
+  type: website
+
+website:
+  title: "TOBI"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd 
+      - project_team.qmd 
+      - resources.qmd
+      - contact.qmd
+    pinned: true
+  page-footer: 
+    center: 
+      - text: "&copy; ETH Library &#x00B7; Powered by Quarto"
+    right:
+      - text: "Disclaimer"
+        href: disclaimer.qmd
+
+format:
+  html:
+    theme: 
+      light: [cosmo, base_colors_light.scss, custom.scss]
+      # dark: [cosmo, base_colors_dark.scss, custom.scss]
+    css: styles.css
+    toc: true
+    toc-expand: true
+    toc-title: " "
+    # toc-location: left
+    mainfont: Inter
+    smooth-scroll: true
+    link-external-icon: true
+    link-external-newwindow: true
+    footnotes-hover: true
+    anchor-sections: false
+    include-after-body: traffic.html # goatcounter
+    email-obfuscation: references
+
+
+
+

@@ -1,0 +1,33 @@
+---
+title: "Team"
+---
+
+TOBI is a project hosted by the Knowledge Management Group at the ETH Library of ETH Zurich. The group is led by Dr. David Johann and since 2020 focuses on providing [scientometric services for the ETH community](https://library.ethz.ch/en/researching-and-publishing/analysing-scientific-output-and-impact.html). 
+
+## Project Team 
+
+### Dr. Teresa Kubacka 
+
+Teresa is the project lead of TOBI. She is a data scientist with a background in physics. At the ETH Library since 2021 and with TOBI since its beginning. 
+
+### Simon Willemin 
+
+Simon is a data scientist with a double background in mathematics and humanities. He joined the project early 2023. 
+
+### Mahmoud Hemila 
+
+Mahmoud is a data scientist with a background in information science and data archiving. He has been supporting the Knowledge Management group in scientometric analyses since 2020 and joined the project in 2023. 
+
+### Dr. Julian Dederke 
+
+Julian is a specialist in research data management, his background is political science. He is supporting the project as an analyst. 
+
+
+## Extended Team 
+
+Other people who support the project: 
+
+- Dr. David Johann, Knowledge Management, ETH Library 
+- Annette Guignard, Knowledge Management, ETH Library  
+- Dr. Roland Suri, Knowledge Management, ETH Library 
+

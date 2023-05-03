@@ -1,0 +1,19 @@
+/*-- scss:defaults --*/
+
+// Base document colors
+
+$strong-highlight: #f8ac07;//#FFD95A;//#f8ac07; //#9CA777;//#f8ac07;
+$light-highlight: #fef7e6;//#FFF7D4;//#F8F5E4;//#d8dec3;//d8dec3 //#F8F5E4;
+
+$body-bg: white;
+$body-color: #181818;
+$link-color: $strong-highlight;
+
+$navbar-bg: $strong-highlight;
+$navbar-fg: #181818;
+$navbar-hl: white;
+
+$footer-bg: $light-highlight;
+
+$callout-color-note: $strong-highlight;
+$link-color-hover: $strong-highlight;

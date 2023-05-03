@@ -1,0 +1,14 @@
+---
+title: "Resources"
+---
+
+## Deliverables 
+Deliverables of the project will be gradually made available here. 
+
+
+## Other resources 
+
+- [Swiss Year Of Scientometrics](https://yearofscientometrics.ethz.ch/): another project led by our group to promote responsible research assessment in Switzerland 
+- [OpenAlex](https://openalex.org/): open bibliometric database 
+- [Curtis Open Knowledge Initiative - Open Metadata Report](https://github.com/Curtin-Open-Knowledge-Initiative/open-metadata-report): comparing open bibliometric databases on a global scale 
+- ...
