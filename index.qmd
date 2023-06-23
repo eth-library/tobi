@@ -23,4 +23,13 @@ TOBI is a project lead by the ETH Library and co-funded by swissuniversities. It
 
 
 ## News 
-...no news yet, stay tuned! 
+
+
+#### TOBI at Open Data Forum 2023 
+*23.06.2023*  
+On 16. June 2023, Teresa has presented the project on the [Open Data Forum 2023](https://opendata.ch/events/opendata-ch-2023-forum/), organized by the association [OpenData.ch](https://opendata.ch/) in Zurich. She gave a Lightning Talk titled "Open Scholarly Metadata", which was received with a lot of interest from the open data community. We thank all the interested participants for many lively discussions and are grateful to the organizers for this opportunity! 
+
+
+#### Upcoming: TOBI at Bibliosuisse 2023 
+*01.06.2023*  
+TOBI as well as its sister project SYOS were accepted for presentation at the upcoming [Bibliosuisse](https://www.bibliosuisse.ch/aktivitaten/schweizerbibliothekskongress/2023zurich), which will take place in Zurich, 2-3. November 2023. 
