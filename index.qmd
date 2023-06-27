@@ -24,6 +24,10 @@ TOBI is a project lead by the ETH Library and co-funded by swissuniversities. It
 
 ## News 
 
+#### Upcoming: TOBI at Workshop on Open Citations & Open Scholarly Metadata 2023 
+*27.06.2023*   
+We are delighted to share that our talk proposal has been accepted to be presented at the [Workshop on Open Citations & Open Scholarly Metadata](https://workshop-oc.github.io/) in Bologna! We are looking forward to the interesting discussions with the open scholarly metadata community. 
+
 
 #### TOBI at Open Data Forum 2023 
 *23.06.2023*  
