@@ -25,8 +25,12 @@ TOBI is a project lead by the ETH Library and co-funded by swissuniversities. It
 ## News 
 
 #### First report ready for community feedback
-*05.08.2023* 
+*05.08.2023*  
 Preliminary version of the first report has been published! [Access it here](./reports/report01.html). Let us know if you have feedback! 
+
+#### Open Metadata Tracker 
+*23.07.2023*  
+Check out our new app, [Open Metadata Tracker](https://tobi-open-metadata-tracker.streamlit.app/). 
 
 #### Upcoming: TOBI at Workshop on Open Citations & Open Scholarly Metadata 2023 
 *27.06.2023*   

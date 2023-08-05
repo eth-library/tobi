@@ -6,6 +6,7 @@ title: "Resources"
 
 Available deliverables: 
 
+- [Open Metadata Tracker](https://tobi-open-metadata-tracker.streamlit.app/)
 - [Preliminary version of the first report: "Survey of scholarly open data"](./reports/report01.html), last update: 05.08.2023 
 
 Other deliverables of the project will be gradually made available here. 
