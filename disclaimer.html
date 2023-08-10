@@ -131,8 +131,8 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>We are using <a href="https://www.goatcounter.com/">GoatCounter</a> for tracking the traffic on this website. GoatCounter does not track any personal data, neither it uses cookies.</p>
-<p>Otherwise, ETH Library’s and ETH Zurich’s legal notices are in effect:</p>
+<p>We are using <a href="https://www.goatcounter.com/">GoatCounter</a> and <a href="https://matomo.org/">Matomo</a> for tracking the traffic on this website. GoatCounter does not track any personal data, neither it uses cookies. Data collected with Matomo are processed according to the data processing rules implemented at ETH Zurich.</p>
+<p>ETH Library’s and ETH Zurich’s legal notices are in effect:</p>
 <ul>
 <li><a href="https://library.ethz.ch/en/footer/disclaimer-copyright.html">Disclaimer &amp; copyright</a><br>
 </li>
@@ -142,11 +142,31 @@ ul.task-list li input[type="checkbox"] {
 
 
 </main> <!-- /main -->
-<script data-goatcounter="https://tobi-eth.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>
+<!-- GoatCounter -->
 
+<script data-goatcounter="https://tobi-eth.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>
 <noscript>
     <img src="https://tobi-eth.goatcounter.com/count?p=/test-noscript">
 </noscript>
+
+
+
+<!-- Matomo -->
+<script>
+    var _paq = window._paq = window._paq || [];
+    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+      var u="https://analytics.library.ethz.ch/";
+      _paq.push(['setTrackerUrl', u+'matomo.php']);
+      _paq.push(['setSiteId', '61']);
+      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+      g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+    })();
+  </script>
+  <!-- End Matomo Code -->
+  
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
