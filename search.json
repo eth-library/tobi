@@ -1,5 +1,47 @@
 [
   {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Available deliverables:\n\nOpen Metadata Tracker\nPreliminary version of the first report: “Survey of scholarly open data”, last update: 05.08.2023\nData underlying the report #1, last update: 05.08.2023\n\nOther deliverables of the project will be gradually made available here."
+  },
+  {
+    "objectID": "resources.html#deliverables",
+    "href": "resources.html#deliverables",
+    "title": "Resources",
+    "section": "",
+    "text": "Available deliverables:\n\nOpen Metadata Tracker\nPreliminary version of the first report: “Survey of scholarly open data”, last update: 05.08.2023\nData underlying the report #1, last update: 05.08.2023\n\nOther deliverables of the project will be gradually made available here."
+  },
+  {
+    "objectID": "resources.html#other-resources",
+    "href": "resources.html#other-resources",
+    "title": "Resources",
+    "section": "Other resources",
+    "text": "Other resources\n\nSwiss Year Of Scientometrics: another project led by our group to promote responsible research assessment in Switzerland\nOpenAlex: open bibliometric database\nCurtis Open Knowledge Initiative - Open Metadata Report: comparing open bibliometric databases on a global scale\n…"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nTOBI:Towards Open Bibliometric Indicators\n",
+    "section": "",
+    "text": "TOBI is a project lead by the ETH Library and co-funded by swissuniversities. It aims to evaluate the quality of open bibliometric data sources regarding research affiliated with Swiss Higher Education Institutions. The project has started in Q1 2023 and will wrap up in Q4 2024."
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "\nTOBI:Towards Open Bibliometric Indicators\n",
+    "section": "News",
+    "text": "News\n\nFirst report ready for community feedback\n05.08.2023\nPreliminary version of the first report has been published! Access it here. Let us know if you have feedback!\n\n\nOpen Metadata Tracker\n23.07.2023\nCheck out our new app, Open Metadata Tracker.\n\n\nUpcoming: TOBI at Workshop on Open Citations & Open Scholarly Metadata 2023\n27.06.2023\nWe are delighted to share that our talk proposal has been accepted to be presented at the Workshop on Open Citations & Open Scholarly Metadata in Bologna! We are looking forward to the interesting discussions with the open scholarly metadata community.\n\n\nTOBI at Open Data Forum 2023\n23.06.2023\nOn 16. June 2023, Teresa has presented the project on the Open Data Forum 2023, organized by the association OpenData.ch in Zurich. She gave a Lightning Talk titled “Open Scholarly Metadata”, which was received with a lot of interest from the open data community. We thank all the interested participants for many lively discussions and are grateful to the organizers for this opportunity!\n\n\nUpcoming: TOBI at Bibliosuisse 2023\n01.06.2023\nTOBI as well as its sister project SYOS were accepted for presentation at the upcoming Bibliosuisse, which will take place in Zurich, 2-3. November 2023."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "We will be happy to hear from you: mail"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -21,32 +63,11 @@
     "text": "Open Peer Review\nswissuniversities follows the open peer review principle. This means that anyone can access the abstract and the reviews of the TOBI proposal here."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "We will be happy to hear from you: mail"
-  },
-  {
     "objectID": "disclaimer.html",
     "href": "disclaimer.html",
     "title": "Legal notice",
     "section": "",
     "text": "We are using GoatCounter and Matomo for tracking the traffic on this website. GoatCounter does not track any personal data, neither it uses cookies. Data collected with Matomo are processed according to the data processing rules implemented at ETH Zurich.\nETH Library’s and ETH Zurich’s legal notices are in effect:\n\nDisclaimer & copyright\n\nData protection"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "\nTOBI:Towards Open Bibliometric Indicators\n",
-    "section": "",
-    "text": "TOBI is a project lead by the ETH Library and co-funded by swissuniversities. It aims to evaluate the quality of open bibliometric data sources regarding research affiliated with Swiss Higher Education Institutions. The project has started in Q1 2023 and will wrap up in Q4 2024."
-  },
-  {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "\nTOBI:Towards Open Bibliometric Indicators\n",
-    "section": "News",
-    "text": "News\n\nFirst report ready for community feedback\n05.08.2023\nPreliminary version of the first report has been published! Access it here. Let us know if you have feedback!\n\n\nOpen Metadata Tracker\n23.07.2023\nCheck out our new app, Open Metadata Tracker.\n\n\nUpcoming: TOBI at Workshop on Open Citations & Open Scholarly Metadata 2023\n27.06.2023\nWe are delighted to share that our talk proposal has been accepted to be presented at the Workshop on Open Citations & Open Scholarly Metadata in Bologna! We are looking forward to the interesting discussions with the open scholarly metadata community.\n\n\nTOBI at Open Data Forum 2023\n23.06.2023\nOn 16. June 2023, Teresa has presented the project on the Open Data Forum 2023, organized by the association OpenData.ch in Zurich. She gave a Lightning Talk titled “Open Scholarly Metadata”, which was received with a lot of interest from the open data community. We thank all the interested participants for many lively discussions and are grateful to the organizers for this opportunity!\n\n\nUpcoming: TOBI at Bibliosuisse 2023\n01.06.2023\nTOBI as well as its sister project SYOS were accepted for presentation at the upcoming Bibliosuisse, which will take place in Zurich, 2-3. November 2023."
   },
   {
     "objectID": "project_team.html",
@@ -68,26 +89,5 @@
     "title": "Team",
     "section": "Extended Team",
     "text": "Extended Team\nOther people who support the project:\n\nDr. David Johann, Knowledge Management, ETH Library\nAnnette Guignard, Knowledge Management, ETH Library\n\nDr. Roland Suri, Knowledge Management, ETH Library"
-  },
-  {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
-    "section": "",
-    "text": "Available deliverables:\n\nOpen Metadata Tracker\nPreliminary version of the first report: “Survey of scholarly open data”, last update: 05.08.2023\nData underlying the report #1, last update: 05.08.2023\n\nOther deliverables of the project will be gradually made available here."
-  },
-  {
-    "objectID": "resources.html#deliverables",
-    "href": "resources.html#deliverables",
-    "title": "Resources",
-    "section": "",
-    "text": "Available deliverables:\n\nOpen Metadata Tracker\nPreliminary version of the first report: “Survey of scholarly open data”, last update: 05.08.2023\nData underlying the report #1, last update: 05.08.2023\n\nOther deliverables of the project will be gradually made available here."
-  },
-  {
-    "objectID": "resources.html#other-resources",
-    "href": "resources.html#other-resources",
-    "title": "Resources",
-    "section": "Other resources",
-    "text": "Other resources\n\nSwiss Year Of Scientometrics: another project led by our group to promote responsible research assessment in Switzerland\nOpenAlex: open bibliometric database\nCurtis Open Knowledge Initiative - Open Metadata Report: comparing open bibliometric databases on a global scale\n…"
   }
 ]
