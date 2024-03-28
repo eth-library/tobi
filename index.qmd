@@ -24,13 +24,46 @@ TOBI is a project lead by the ETH Library and co-funded by swissuniversities. It
 
 ## News 
 
+
+#### Upcoming: TOBI at Open Repositories Conference 2024
+*18.03.2024*
+We are glad to announce that our presentation proposal for [Open Repositories Conference 2024](https://or2024.openrepositories.org/) in Gothenburg has been accepted. We are looking forward to the discussions and exchanges.
+
+
+#### Update: OpenAIRE is now available in the TOBI Open Metadata Tracker
+*11.03.2024*
+The TOBI Open Metadata Tracker has been updated. You can now track counts from OpenAIRE. The new [OpenCitations Index](https://doi.org/10.58079/sjfl) has also been integrated into the app. Click [here](https://tobi-open-metadata-tracker.streamlit.app/) to compare counts in Crossref, OpenAIRE, OpenAlex, OpenCitations and Semantic Scholar.
+
+
+#### Third Swiss Year of Scientometrics (SYoS) Workshop
+*23.02.2024*
+The third workshop of the Swiss Year of Scientometrics (SYoS) on 8 February 2024 at EPFL was a success. The workshop opened with three lightning talks on TOBI, on the Swiss Open Access Monitor (NOAM) and on the French Open Science Monitor, and was followed by stimulating discussions on open data and responsible research assessment. Presentations related to SYoS are available on the [Zenodo page of the project](https://zenodo.org/communities/syos). We are thankful to the workshop participants for their rich input, as well as to the organizing team of the event at EPFL.
+
+
+#### Upcoming: Third Swiss Year of Scientometrics (SYoS) Workshop
+*16.01.2024*
+The [third workshop](https://yearofscientometrics.ethz.ch/mc-events/syos-workshop-no-3) of the Swiss Year of Scientometrics (SYoS) will take place on 8 February 2024 at EPFL in Lausanne. The workshop will start with lightning talks on open data projects. Participants will then discuss questions related to data pipelines, sustainability, and infrastructure. The output of the workshop will be used as a basis for a TOBI report.
+
+
+#### TOBI at Bibliosuisse 2023
+*12.11.2023*
+On 3 November 2023, we had the pleasure to hold a multilingual Ignite Talk in English, German and French about TOBI and SYoS at Bibliosuisse 2023. Our session was entitled "Responding to the need for responsible and open bibliometrics in Switzerland: Insights from two projects at the ETH Library". Our thanks go to the organizers of the conference, and especially to the moderator of our session, Franziska Baetcke. Bibliosuisse 2023 provided great opportunities for exchange with many stakeholders.
+
+
+#### TOBI at Workshop on Open Citations & Open Scholarly Metadata 2023
+*30.10.2023*
+The [slides](https://zenodo.org/records/10041143) of our talk on TOBI at the Workshop on OpenCitations 2023 in Bologna are now available. Further presentations from these intensive days are also available on the [Zenodo page of the event] (https://zenodo.org/communities/wooc2023). We are thankful to the participants for the insightful discussions and to the organizers for making this great opportunity to exchange possible!
+
+
 #### First report ready for community feedback
 *05.08.2023*  
 Preliminary version of the first report has been published! [Access it here](./reports/report01.html). Let us know if you have feedback! 
 
+
 #### Open Metadata Tracker 
 *23.07.2023*  
 Check out our new app, [Open Metadata Tracker](https://tobi-open-metadata-tracker.streamlit.app/). 
+
 
 #### Upcoming: TOBI at Workshop on Open Citations & Open Scholarly Metadata 2023 
 *27.06.2023*   
