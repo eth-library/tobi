@@ -1,0 +1,53 @@
+swissuniversities_name;id;findable_winter_2023_2024
+Berner Fachhochschule BFH;BFH;dim,openaire,openalex,scopus
+Eidgenössische Hochschule für Berufsbildung, EHB;EHB;dim,openaire,openalex
+Ecole polytechnique fédérale de Lausanne EPFL;EPFL;dim,openaire,openalex,scopus,wos
+Eidgenössische Technische Hochschule Zürich ETH;ETHZ;dim,openaire,openalex,scopus,wos
+Fachhochschule Graubünden FHGR;FHGR;dim,openaire,openalex
+Fachhochschule Nordwestschweiz FHNW;FHNW;dim,openaire,openalex,scopus,wos
+Haute école pédagogique des cantons de Berne, du Jura et de Neuchâtel HEP-BEJUNE;HEPBEJUNE;dim,openaire,openalex
+Haute école pédagogique du canton de Vaud HEP Vaud;HEPVAUD;dim,openaire,openalex
+Haute école spécialisée de Suisse occidentale HES-SO;HESSO;dim,openaire,openalex,scopus,wos
+Interkantonale Hochschule für Heilpädagogik Zürich HfH;HFH;dim,openaire,openalex
+Universität St. Gallen HSG;HSG;dim,openaire,openalex,scopus,wos
+Hochschule Luzern HSLU;HSLU;dim,openaire,openalex,scopus
+Hochschulinstitut Schaffhausen HSSH;HSSH;
+Hochschule für Wirtschaft Zürich HWZ;HWZ;dim,openaire,openalex
+Institut de hautes études internationales et du développement, Genève, IHEID;IHEID;dim,openaire,openalex,scopus
+IMD - International Institute for Management Development;IMD;dim,openaire,openalex,scopus,wos
+Kalaidos Fachhochschule;KAFH;dim,openaire,openalex,scopus
+Pädagogisches Hochschulinstitut NMS Bern (formerly IVP NMS);NMS;dim,openaire,openalex
+OST - Ostschweizer Fachhochschule;OST;dim,openaire,openalex
+Pädagogische Hochschule Bern PH Bern;PHB;dim,openaire,openalex,scopus
+Haute école pédagogique Fribourg | Pädagogische Hochschule Freiburg HEP | PH FR;PHFR;dim,openaire,openalex
+Pädagogische Hochschule Graubünden | Alta scuola pedagogica dei Grigioni | Scola auta da pedagogia dal Grischun PHGR;PHGR;dim,openaire,openalex
+Pädagogische Hochschule Luzern PH Luzern;PHLU;dim,openaire,openalex
+Pädagogische Hochschule Nordwestschweiz PH FHNW;PHNW;openaire
+Pädagogische Hochschule St. Gallen PHSG;PHSG;dim,openaire,openalex,scopus
+Pädagogische Hochschule Schaffhausen PHSH;PHSH;dim,openaire,openalex
+Pädagogische Hochschule Schwyz PHSZ;PHSZ;dim,openaire,openalex
+Pädagogische Hochschule Thurgau PHTG;PHTG;dim,openaire,openalex
+Haute école pédagogique du Valais | Pädagogische Hochschule Wallis HEP-VS | PH-VS;PHVS;dim,openaire,openalex
+Pädagogische Hochschule Zürich PH Zürich;PHZRH;dim,openaire,openalex
+Pädagogische Hochschule Zug PH Zug;PHZU;dim,openaire,openalex
+Swiss Business School SBS;SBS;scopus,wos
+Swiss Federal Institute of Sport Magglingen SFISM;SFISM;dim,openaire,openalex,scopus
+Schweizer Hochschule für Logopädie Rorschach SHLR;SHLR;dim,openaire,openalex
+Universitäre Theologische Hochschule Basel STH Basel;STHB;dim,openaire,openalex
+Stiftung Universitäre Fernstudien Schweiz, Brig;SUFS;dim,openalex
+Swiss UMEF;SUMEF;
+Scuola universitaria professionale della Svizzera italiana SUPSI;SUPSI;dim,openaire,openalex,scopus
+SUPSI - Dipartimento formazione e apprendimento SUPSI-DFA;SUPSIDFA;
+Schweizerisches universitäres Institut für traditionelle chinesische Medizin SWISS TCM UNI;TCMUNI;
+Theologische Hochschule Chur;THCH;dim,openaire,openalex
+Universität Basel;UNIBAS;dim,openaire,openalex,scopus,wos
+Universität Bern UniBE;UNIBE;dim,openaire,openalex,scopus,wos
+Université de Fribourg Unifr;UNIFR;dim,openaire,openalex,scopus,wos
+Université de Genève UNIGE;UNIGE;dim,openaire,openalex,scopus,wos
+Université de Lausanne UNIL;UNIL;dim,openaire,openalex,scopus,wos
+Universität Luzern Unilu;UNILU;dim,openaire,openalex,scopus,wos
+Université de Neuchâtel UniNE;UNINE;dim,openaire,openalex,scopus,wos
+Università della Svizzera italiana USI;USI;dim,openaire,openalex,scopus,wos
+Universität Zürich UZH;UZH;dim,openaire,openalex,scopus,wos
+Zürcher Hochschule für angewandte Wissenschaften ZHAW;ZHAW;dim,openaire,openalex,scopus,wos
+Zürcher Hochschule der Künste ZHdk;ZHDK;dim,openaire,openalex,scopus

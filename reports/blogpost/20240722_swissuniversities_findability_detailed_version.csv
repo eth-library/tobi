@@ -1,0 +1,57 @@
+﻿Swissuniversities_name,ID,Dimension,Scopus,WoS,OpenAIRE,OpenAIRE.1,OpenAIRE.2,OpenAIRE.3,openAlex,openAlex.1,openAlex.2,openAlex.3
+,,Findable,Findable,Findable,"Findable
+ (validated ID)","Findable
+ (validated ID)",# pub. > 0,# pub. > 0,Findable,Findable,# pub. > 0,# pub. > 0
+Retrievel Date,,Q1 2024,Q1 2024,Q1 2024,Q1 2024,Q3 2024,Q1 2024,Q3 2024,Q1 2024,Q3 2024,Q1 2024,Q3 2024
+Ecole polytechnique fédérale de Lausanne EPFL,EPFL,True,True,True,True,True,True,True,True,True,True,True
+Eidgenössische Technische Hochschule Zürich ETH,ETHZ,True,True,True,True,True,True,True,True,True,True,True
+Universität Basel,UNIBAS,True,True,True,True,True,True,True,True,True,True,True
+Universität Bern UniBE,UNIBE,True,True,True,True,True,True,True,True,True,True,True
+Université de Fribourg Unifr,UNIFR,True,True,True,True,True,True,True,True,True,True,True
+Université de Genève UNIGE,UNIGE,True,True,True,True,True,True,True,True,True,True,True
+Université de Lausanne UNIL,UNIL,True,True,True,True,True,True,True,True,True,True,True
+Universität Luzern Unilu,UNILU,True,True,True,True,True,True,True,True,True,True,True
+Université de Neuchâtel UniNE,UNINE,True,True,True,True,True,True,True,True,True,True,True
+Universität St. Gallen HSG,HSG,True,True,True,True,True,True,True,True,True,True,True
+Università della Svizzera italiana USI,USI,True,True,True,True,True,True,True,True,True,True,True
+Universität Zürich UZH,UZH,True,True,True,True,True,True,True,True,True,True,True
+Berner Fachhochschule BFH,BFH,True,True,False,True,True,True,True,True,True,True,True
+Fachhochschule Graubünden FHGR,FHGR,True,False,False,True,True,True,True,True,True,True,True
+Fachhochschule Nordwestschweiz FHNW,FHNW,True,True,True,True,True,True,True,True,True,True,True
+Haute école spécialisée de Suisse occidentale HES-SO,HESSO,True,True,True,True,True,True,True,True,True,True,True
+Hochschule Luzern HSLU,HSLU,True,True,False,True,True,True,True,True,True,True,True
+Kalaidos Fachhochschule,KAFH,True,True,False,True,True,True,True,True,True,True,True
+OST - Ostschweizer Fachhochschule,OST,True,False,False,True,True,True,True,True,True,True,True
+Scuola universitaria professionale della Svizzera italiana SUPSI,SUPSI,True,True,False,True,True,True,True,True,True,True,True
+Zürcher Hochschule der Künste ZHdk,ZHDK,True,True,False,True,True,True,True,True,True,True,True
+Zürcher Hochschule für angewandte Wissenschaften ZHAW,ZHAW,True,True,True,True,True,True,True,True,True,True,True
+"Haute école pédagogique des cantons de Berne, du Jura et de Neuchâtel HEP-BEJUNE",HEPBEJUNE,True,False,False,True,True,True,True,True,True,True,True
+Haute école pédagogique du canton de Vaud HEP Vaud,HEPVAUD,True,False,False,True,True,True,True,True,True,True,True
+Haute école pédagogique du Valais | Pädagogische Hochschule Wallis HEP-VS | PH-VS,PHVS,True,False,False,True,True,True,True,True,True,True,True
+Haute école pédagogique Fribourg | Pädagogische Hochschule Freiburg HEP | PH FR,PHFR,True,False,False,True,True,True,True,True,True,True,True
+Pädagogisches Hochschulinstitut NMS Bern (formerly IVP NMS),NMS,True,False,False,True,True,False,False,False,False,False,False
+Interkantonale Hochschule für Heilpädagogik Zürich HfH,HFH,True,False,False,True,True,True,True,True,True,True,True
+Pädagogische Hochschule Graubünden | Alta scuola pedagogica dei Grigioni | Scola auta da pedagogia dal Grischun PHGR,PHGR,True,False,False,True,True,True,True,True,True,True,True
+Pädagogische Hochschule Bern PH Bern,PHB,True,True,False,True,True,True,True,True,True,True,True
+Pädagogische Hochschule Luzern PH Luzern,PHLU,True,False,False,True,True,True,True,True,True,True,True
+Pädagogische Hochschule Nordwestschweiz PH FHNW,PHNW,False,False,False,True,True,True,True,False,True,False,False
+Pädagogische Hochschule St. Gallen PHSG,PHSG,True,True,False,True,True,True,True,True,True,True,True
+Pädagogische Hochschule Schaffhausen PHSH,PHSH,True,False,False,True,True,True,True,True,True,True,True
+Pädagogische Hochschule Schwyz PHSZ,PHSZ,True,False,False,True,True,True,True,True,True,True,True
+Pädagogische Hochschule Thurgau PHTG,PHTG,True,False,False,True,True,True,True,True,True,True,True
+Pädagogische Hochschule Zürich PH Zürich,PHZRH,True,False,False,True,True,True,True,True,True,True,True
+Pädagogische Hochschule Zug PH Zug,PHZU,True,False,False,True,True,True,True,True,True,True,True
+"Eidgenössische Hochschule für Berufsbildung, EHB",EHB,True,False,False,True,True,True,True,True,True,True,True
+Schweizer Hochschule für Logopädie Rorschach SHLR,SHLR,True,False,False,True,True,True,True,True,True,True,True
+SUPSI - Dipartimento formazione e apprendimento SUPSI-DFA,SUPSIDFA,False,False,False,False,False,False,False,False,False,False,False
+Hochschule für Wirtschaft Zürich HWZ,HWZ,True,False,False,True,True,True,True,True,True,True,True
+Hochschulinstitut Schaffhausen HSSH,HSSH,False,False,False,False,False,False,False,False,True,False,False
+IMD - International Institute for Management Development,IMD,True,True,True,True,True,True,True,True,True,True,True
+"Institut de hautes études internationales et du développement, Genève, IHEID",IHEID,True,True,False,True,True,True,True,True,True,True,True
+Schweizerisches universitäres Institut für traditionelle chinesische Medizin SWISS TCM UNI,TCMUNI,False,False,False,False,False,False,False,False,True,False,False
+"Stiftung Universitäre Fernstudien Schweiz, Brig",SUFS,True,False,False,False,False,False,False,True,True,True,True
+Swiss Business School SBS,SBS,False,True,True,False,False,False,False,False,True,False,False
+Swiss Federal Institute of Sport Magglingen SFISM,SFISM,True,True,False,True,True,True,True,True,True,True,True
+Swiss UMEF,SUMEF,False,False,False,False,False,False,False,False,True,False,False
+Theologische Hochschule Chur,THCH,True,False,False,True,True,True,True,True,True,True,True
+Staatsunabhängige Theologische Hochschule Basel,STHB,True,False,False,True,True,True,True,True,True,True,True
