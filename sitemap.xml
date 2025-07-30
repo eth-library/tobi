@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://eth-library.github.io/tobi/resources.html</loc>
-    <lastmod>2023-12-20T17:04:28.030Z</lastmod>
-  </url>
-  <url>
-    <loc>https://eth-library.github.io/tobi/index.html</loc>
-    <lastmod>2023-12-20T17:04:27.249Z</lastmod>
+    <loc>https://eth-library.github.io/tobi/about.html</loc>
+    <lastmod>2025-07-30T06:49:46.738Z</lastmod>
   </url>
   <url>
     <loc>https://eth-library.github.io/tobi/contact.html</loc>
-    <lastmod>2023-12-20T17:04:26.436Z</lastmod>
-  </url>
-  <url>
-    <loc>https://eth-library.github.io/tobi/about.html</loc>
-    <lastmod>2023-12-20T17:04:26.068Z</lastmod>
+    <lastmod>2025-07-30T06:49:47.112Z</lastmod>
   </url>
   <url>
     <loc>https://eth-library.github.io/tobi/disclaimer.html</loc>
-    <lastmod>2023-12-20T17:04:26.826Z</lastmod>
+    <lastmod>2025-07-30T06:49:47.443Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eth-library.github.io/tobi/index.html</loc>
+    <lastmod>2025-07-30T06:49:48.017Z</lastmod>
   </url>
   <url>
     <loc>https://eth-library.github.io/tobi/project_team.html</loc>
-    <lastmod>2023-12-20T17:04:27.637Z</lastmod>
+    <lastmod>2025-07-30T06:49:48.384Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eth-library.github.io/tobi/resources.html</loc>
+    <lastmod>2025-07-30T06:49:48.837Z</lastmod>
   </url>
 </urlset>
