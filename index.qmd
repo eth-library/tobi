@@ -19,40 +19,125 @@ toc: false
 
 
 
-TOBI is a project lead by the ETH Library and co-funded by swissuniversities. It aims to evaluate the quality of open bibliometric data sources regarding research affiliated with Swiss Higher Education Institutions. The project has started in Q1 2023 and will wrap up in Q4 2024.   
+TOBI is a project lead by the ETH Library and co-funded by swissuniversities. It aims to evaluate the quality of open bibliometric data sources regarding research affiliated with Swiss Higher Education Institutions. The project has started in early 2023 and ended in July 2025.
 
 
-## News 
+## News
+
+#### Publication: Recommendations for Swiss Higher Education Institutions to enhance the visibility of their research output
+*30.06.2025*  
+We are glad to announce the publication of a set of 14 recommendations for Swiss Higher Education Institutions to enhance the visibility of their research output:
+
+- Willemin, S., Bachmann, M., Muheim, C., Foulger, S., Friedlein, S., Guignard, A., Haller, M., Hauf, N., Hirschmann, B., Kubacka, T., Nunnenmacher, L., Pinardi, L., Pruschak, G., Schneble, C., & Stieger, R. (2025). *Recommendations for Swiss Higher Education Institutions to enhance the visibility of their research output*. ETH Library, ETH Zurich. [https://doi.org/10.3929/ethz-b-000735240](https://doi.org/10.3929/ethz-b-000735240)
+
+This recommendation paper has been written in collaboration with contributors from eight Swiss higher education institutions and research organizations. It provides ideas and use cases that address various aspects of metadata improvement and metadata dissemination in local repositories, global platforms, and beyond.  
+The recommendation paper is available in the [ETH Research Collection](https://doi.org/10.3929/ethz-b-000735240) and on [Zenodo](https://zenodo.org/records/15774309).
+
+
+#### TOBI Portfolio on GitHub
+*05.05.2025*  
+We are happy to share that the TOBI Portfolio is now available on GitHub. This collection of Jupyter Notebooks supports the use of open bibliometric data sources in higher education. The tools provided are designed to help with data cleaning and analysis. You can explore the portfolio [here](https://github.com/eth-library/tobi-portfolio).
+
+
+#### Publication: Swiss Institutions in Bibliometric Databases
+*13.03.2025*  
+As a continuation of our earlier blogposts, we have published an English paper in the journal *Qualität in der Wissenschaft*:
+
+- Dederke, J., Koch, M., & Willemin, S. (2024). The Representation of Swiss Higher Education Institutions in Five Bibliometric Databases. *Qualität in der Wissenschaft*, 2024(4), 117-124, [https://doi.org/10.3929/ethz-b-000726102](https://doi.org/10.3929/ethz-b-000726102)
+
+Underlying the paper are data on publication counts for all Swiss Higher Education Institutions in five bibliometric databases. These data are available at:
+
+- Koch, M., Dederke, J., & Willemin, S. (2024). Publication counts for Swiss Higher Education Institutions in five bibliometric databases (2012-2022), [https://doi.org/10.3929/ethz-b-000694041](https://doi.org/10.3929/ethz-b-000694041)
+
+In addition to the dataset, the files include figures that present the counts for different publication types across all Swiss Higher Education Institutions:
+
+- [Article counts by institution](https://github.com/eth-library/tobi/raw/main/reports/publication/Article_Counts_by_Institution_2012-2022.pdf) (2012-2022)
+- [Book counts by institution](https://github.com/eth-library/tobi/raw/main/reports/publication/Book_Counts_by_Institution_2012-2022.pdf) (2012-2022)
+- [Chapter counts by institution](https://github.com/eth-library/tobi/raw/main/reports/publication/Chapter_Counts_by_Institution_2012-2022.pdf) (2012-2022)
+- [Conference paper counts by institution](https://github.com/eth-library/tobi/raw/main/reports/publication/Conference_Paper_Counts_by_Institution_2012-2022.pdf) (2012-2022)
+
+
+#### Upcoming: TOBI at the 2nd Austrian Library Congress
+*03.02.2025*  
+We are pleased to announce that we will hold a presentation on code scripts to foster the use of open bibliometric data sources in university libraries and research institutions during the [2nd Austrian Library Congress](https://www.bibliothekskongress.at/) (25-28 March 2025). We look forward to the exchanges and discussions.
+
+
+#### TOBI at the International Open Access Week 2024 in Switzerland
+*09.12.2024*  
+The slides of our [presentation](https://zenodo.org/records/14283138) given during the [International Open Access Week 2024 in Switzerland](https://openaccessweek.ub.unibas.ch/en/) are now online. We thank the organizers of this series of events that enabled many stakeholders to discuss the benefits and challenges of Open Access.
+
+
+#### TOBI at STI 2024
+*29.10.2024*  
+The [paper](https://doi.org/10.5281/zenodo.13960973) and the [poster](https://doi.org/10.5281/zenodo.13981078) presented at the [28th International Conference on Science](https://sti2024.org/sti-conference/), Technology and Innovation Indicators (STI 2024, 18-20 September 2024) are now available. Further conference papers and posters can be found on the [conference proceedings community on Zenodo](https://zenodo.org/communities/sti-2024/). We are thankfull to the STI organising committee for an event with very exciting discussions and exchanges.
+
+
+#### Upcoming: TOBI at the International Open Access Week 2024 in Switzerland
+*17.10.2024*  
+We are pleased to announce that we will present a webinar on the coverage and quality of publication metadata in open bibliometric databases for Open Access monitoring on 24 October 2024 from 12:15 to 13:00 during the [International Open Access Week 2024 in Switzerland](https://openaccessweek.ub.unibas.ch/en/). More information about the webinar can be found on this [this page](https://library.ethz.ch/en/news-and-courses/news/news-articles/2024/10/wie-kann-die-metadatenqualitaet-in-offenen-bibliografischen-datenbanken-verbessert-werden.html).
+
+
+#### TOBI at the Paris Conference on Open Research Information
+*11.10.2024*  
+The [slides](https://doi.org/10.5281/zenodo.13900192) of our talk on the curation of open scholarly metadata databases at the [Paris Conference on Open Research Information](https://barcelona-declaration.org/conference/) (23-24 September 2024) are now available. Further slides from presentations held during the event are available in a [collection on Zenodo](https://zenodo.org/communities/paris_conference_ori_2024/). We would like to thank the organizing committee for two very fruitful days of exchanges to map the future around Open Research Information!
+
+
+#### Upcoming: TOBI at STI 2024 and at the Paris Conference on Open Research Information
+*09.09.2024*  
+We are glad to announce that we will present a poster on the detection of errors in bibliographic datasets at the [28th International Conference on Science, Technology and Innovation Indicators](https://sti2024.org/sti-conference/) (STI 2024, 18-20 September 2024) and a talk on the curation of open scholarly metadata databases at the [Paris Conference on Open Research Information](https://barcelona-declaration.org/conference/) (23-24 September 2024). We are looking forward to the discussions and exchanges.
+
+
+#### Blogpost: Swiss Higher Education Institutions in Bibliometric Databases
+*08.07.2024*  
+Our latest [blogpost](https://yearofscientometrics.ethz.ch/exploring-swiss-higher-education-institutions-in-commercial-and-open-bibliometric-databases) explores the visibility of Swiss higher education institutions (HEIs) in both commercial and open bibliometric databases. As a continuation of a [previous blogpost](https://yearofscientometrics.ethz.ch/swissuniversities-institutions-in-commercial-databases) on the findability of HEIs across commercial databases, we pursue the analysis by investigating open databases. Our analyses reveals that OpenAlex, OpenAIRE as well as the commercial database Dimensions are more inclusive compared to the commercial and established databases Scopus and Web of Science when it comes to the findability of HEIs. Open databases also report higher publication counts than commercial databases for major institutions, while more variability is observed for smaller institutions. These results as well as the benefits of working with community-driven data curation are discussed.  
+Supplementary file:
+
+- Full list of Swiss higher education institutions found across databases: [.pdf file](https://github.com/eth-library/tobi/raw/main/reports/blogpost/20240528_list_swissuniversities_institutions_found_in_commercial_and_open_databases.pdf)
+
+
+#### TOBI at Open Repositories Conference 2024
+*27.06.2024*  
+The [slides](https://doi.org/10.5281/zenodo.12514344) of our presentation on TOBI at the 19th International Conference on Open Repositories in Göteborg are now available. Further slides from presentations held during the event are available on the Zenodo community [Open Repositories](https://zenodo.org/communities/openrepos). We would like to thank the organisers for making the event possible, and the participants for the fruitful discussions!
+
+
+#### Blogpost: Swiss Higher Education Institutions in Commercial Bibliometric Databases
+*10.04.2024*  
+Our new [blogpost](https://yearofscientometrics.ethz.ch/swissuniversities-institutions-in-commercial-databases) covers the main findings and implications of a study of Swiss higher education institutions' findability in commercial bibliometric databases. Knowing how Switzerland is represented in these established, commercial databases will later allow a point of comparison for OpenAlex and OpenAIRE within the TOBI project. The blogpost underscores the relevance of organisational identifiers and language disambiguation for the findability and visibility of Swiss HEIs in bibliometric databases. It also showcases the widely varying publication counts across commercial bibliometric databases.  
+Supplementary files:
+
+- Full list of Swiss higher education institutions found in commercial database webapps: [.pdf file](https://github.com/eth-library/tobi/raw/main/reports/blogpost/20240202_list_swissuniversities_institutions_found_in_commercial_database_webapps.pdf), [.csv file](https://github.com/eth-library/tobi/raw/main/reports/blogpost/20240327_list_swissuniversities_institutions_found_in_commercial_database_webapps.csv)
+- List of institutions included for “ETH Zurich” in Dimensions, Scopus, WoS: [.pdf file](https://github.com/eth-library/tobi/raw/main/reports/blogpost/20240327_table_commercial_database_identifiers_URLs_eth_example.pdf)
+- List of search queries for Swiss higher education institutions in commercial database webapps (including child- and related-institutions): [.csv file](https://github.com/eth-library/tobi/raw/main/reports/blogpost/20240410_df_queries_commercial-dbs.csv), [.xlsx file](https://github.com/eth-library/tobi/raw/main/reports/blogpost/20240410_df_queries_commercial-dbs.xlsx)
 
 
 #### Upcoming: TOBI at Open Repositories Conference 2024
-*18.03.2024*
+*18.03.2024*  
 We are glad to announce that our presentation proposal for [Open Repositories Conference 2024](https://or2024.openrepositories.org/) in Gothenburg has been accepted. We are looking forward to the discussions and exchanges.
 
 
 #### Update: OpenAIRE is now available in the TOBI Open Metadata Tracker
-*11.03.2024*
+*11.03.2024*  
 The TOBI Open Metadata Tracker has been updated. You can now track counts from OpenAIRE. The new [OpenCitations Index](https://doi.org/10.58079/sjfl) has also been integrated into the app. Click [here](https://tobi-open-metadata-tracker.streamlit.app/) to compare counts in Crossref, OpenAIRE, OpenAlex, OpenCitations and Semantic Scholar.
 
 
 #### Third Swiss Year of Scientometrics (SYoS) Workshop
-*23.02.2024*
+*23.02.2024*  
 The third workshop of the Swiss Year of Scientometrics (SYoS) on 8 February 2024 at EPFL was a success. The workshop opened with three lightning talks on TOBI, on the Swiss Open Access Monitor (NOAM) and on the French Open Science Monitor, and was followed by stimulating discussions on open data and responsible research assessment. Presentations related to SYoS are available on the [Zenodo page of the project](https://zenodo.org/communities/syos). We are thankful to the workshop participants for their rich input, as well as to the organizing team of the event at EPFL.
 
 
 #### Upcoming: Third Swiss Year of Scientometrics (SYoS) Workshop
-*16.01.2024*
+*16.01.2024*  
 The [third workshop](https://yearofscientometrics.ethz.ch/mc-events/syos-workshop-no-3) of the Swiss Year of Scientometrics (SYoS) will take place on 8 February 2024 at EPFL in Lausanne. The workshop will start with lightning talks on open data projects. Participants will then discuss questions related to data pipelines, sustainability, and infrastructure. The output of the workshop will be used as a basis for a TOBI report.
 
 
 #### TOBI at Bibliosuisse 2023
-*12.11.2023*
+*12.11.2023*  
 On 3 November 2023, we had the pleasure to hold a multilingual Ignite Talk in English, German and French about TOBI and SYoS at Bibliosuisse 2023. Our session was entitled "Responding to the need for responsible and open bibliometrics in Switzerland: Insights from two projects at the ETH Library". Our thanks go to the organizers of the conference, and especially to the moderator of our session, Franziska Baetcke. Bibliosuisse 2023 provided great opportunities for exchange with many stakeholders.
 
 
 #### TOBI at Workshop on Open Citations & Open Scholarly Metadata 2023
-*30.10.2023*
-The [slides](https://zenodo.org/records/10041143) of our talk on TOBI at the Workshop on OpenCitations 2023 in Bologna are now available. Further presentations from these intensive days are also available on the [Zenodo page of the event] (https://zenodo.org/communities/wooc2023). We are thankful to the participants for the insightful discussions and to the organizers for making this great opportunity to exchange possible!
+*30.10.2023*  
+The [slides](https://zenodo.org/records/10041143) of our talk on TOBI at the Workshop on OpenCitations 2023 in Bologna are now available. Further presentations from these intensive days are also available on the [Zenodo page of the event](https://zenodo.org/communities/wooc2023). We are thankful to the participants for the insightful discussions and to the organizers for making this great opportunity to exchange possible!
 
 
 #### First report ready for community feedback

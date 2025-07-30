@@ -4,18 +4,64 @@ title: "Resources"
 
 ## Deliverables 
 
-Available deliverables: 
+#### TOBI Streamlit app 
 
-- [Open Metadata Tracker](https://tobi-open-metadata-tracker.streamlit.app/)
-- [Preliminary version of the first report: "Survey of scholarly open data"](./reports/report01.html), last update: 05.08.2023 
-- [Data underlying the report #1](https://github.com/eth-library/tobi/raw/main/reports/report01_data.zip), last update: 05.08.2023
+- [Open Metadata Tracker](https://tobi-open-metadata-tracker.streamlit.app/): An app to compare citations counts, references counts, and authors counts in Crossref, OpenAIRE, OpenAlex, OpenCitations and Semantic Scholar for a small sample of DOIs
 
-Other deliverables of the project will be gradually made available here. 
+#### Blogposts
+
+- [Blogpost](https://yearofscientometrics.ethz.ch/exploring-swiss-higher-education-institutions-in-commercial-and-open-bibliometric-databases): “Exploring Swiss Higher Education Institutions in Commercial and Open Bibliometric Databases” (04.07.2024)
+- [Blogpost](https://yearofscientometrics.ethz.ch/swissuniversities-institutions-in-commercial-databases): “Exploring Swiss Higher Education Institutions in Commercial Bibliometric Databases” (09.04.2024)
+- Supplementary files:
+    - Full list of Swiss higher education institutions found in open and commercial databases (OpenAlex, OpenAIRE; Dimensions, Scopus, Web of Science): [.csv file](https://github.com/eth-library/tobi/raw/main/reports/blogpost/20240722_swissuniversities_findability.csv), [.pdf file](https://github.com/eth-library/tobi/raw/main/reports/blogpost/20240722_swissuniversities_findability.pdf); detailed versions: [.csv file](https://github.com/eth-library/tobi/raw/main/reports/blogpost/20240722_swissuniversities_findability_detailed_version.csv), [.xlsx file](https://github.com/eth-library/tobi/raw/main/reports/blogpost/20240722_swissuniversities_findability_detailed_version.xlsx) (last update: 22.07.2024)
+    - List of identifiers for Swiss higher education institutions (including child-institutions): [.csv file](https://github.com/eth-library/tobi/raw/main/reports/blogpost/20241008_swissuniversities_identifier.csv), [.xlsx file](https://github.com/eth-library/tobi/raw/main/reports/blogpost/20241008_swissuniversities_identifier.xlsx) (last update: 08.10.2024)
+    - List of search queries for Swiss higher education institutions (including child- and related-institutions): [.csv file](https://github.com/eth-library/tobi/raw/main/reports/blogpost/20241008_df_queries.csv), [.xlsx file](https://github.com/eth-library/tobi/raw/main/reports/blogpost/20241008_df_queries.xlsx) (last update: 08.10.2024)
+    - List of institutions included for “ETH Zurich” in commercial databases (Dimensions, Scopus, WoS): [.pdf file](https://github.com/eth-library/tobi/raw/main/reports/blogpost/20240327_table_commercial_database_identifiers_URLs_eth_example.pdf) (last update: 27.03.2024)
+
+#### Talks and presentations 
+- [Slides](https://zenodo.org/records/14283138) of the presentation “How to improve the metadata coverage and quality of open databases?” given during the International Open Access Week 2024 in Switzerland, October 21-27th 2024
+- [Slides](https://doi.org/10.5281/zenodo.13900192) of the presentation “How to curate open scholarly metadata databases?” given at the Paris Conference on Open Research Information, September 23-24th 2024
+- [Paper](https://doi.org/10.5281/zenodo.13960973) and [poster](https://doi.org/10.5281/zenodo.13981078) “Using missing data patterns to detect incorrectly assigned articles in bibliographic datasets” presented at the 28th International Conference on Science, Technology and Innovation Indicators (STI 2024), September 18-20th 2024
+- [Slides](https://doi.org/10.5281/zenodo.12514344) of the presentation “What do open global scholarly metadata databases contain?” given at the 19th International Conference on Open Repositories, June 3-6th 2024
+- [Slides](https://doi.org/10.5281/zenodo.14923795) of the presentation “Towards Open Bibliometric Indicators” given at the third Swiss Year of Scientometrics Workshop, February 8th 2024
+- [Slides](https://doi.org/10.5281/zenodo.10041143) of the presentation “Evaluating the quality and reliability of open bibliometric data for research assessment purposes in Switzerland” given at the Workshop on Open Citations & Open Scholarly Metadata 2023, October 26-27th 2023
+- [Slides](https://opendata.ch/wordpress/files/2023/07/2023-06-16-Open-scholarly-metadata-export.pdf) of the presentation “Open Scholarly Metadata” given at the Open Data Forum 2023, June 16th 2023
+
+
+#### First report (preliminary version) 
+
+- [Preliminary version of the first report](./reports/report01.html): “Survey of scholarly open data” (last update: 05.08.2023) 
+- Data underlying the first report: [.zip file](https://github.com/eth-library/tobi/raw/main/reports/report01_data.zip) (last update: 05.08.2023)
 
 
 ## Other resources 
 
-- [Swiss Year Of Scientometrics](https://yearofscientometrics.ethz.ch/): another project led by our group to promote responsible research assessment in Switzerland 
-- [OpenAlex](https://openalex.org/): open bibliometric database 
-- [Curtis Open Knowledge Initiative - Open Metadata Report](https://github.com/Curtin-Open-Knowledge-Initiative/open-metadata-report): comparing open bibliometric databases on a global scale 
-- ...
+#### Swiss Year of Scientometrics (SYoS) 
+
+- [SYoS Blogpost](https://yearofscientometrics.ethz.ch/): SYoS is another project led by our team to promote responsible research assessment in Switzerland
+
+#### Open scholarly metadata databases 
+
+- [BASE (Bielefeld Academic Search Engine)](https://www.base-search.net/)
+- [OpenAIRE](https://explore.openaire.eu/)
+- [OpenAlex](https://openalex.org/)
+- [OpenCitations](https://opencitations.net/)
+- [Semantic Scholar](https://www.semanticscholar.org/)
+
+#### Dashboards based on open scholarly metadata databases 
+
+- [Swiss Open Access Monitor](https://oamonitor.ch/): An Open Access Monitor for Switzerland with a Journal Monitor based on OpenAlex as well as other data sources, and a Repository Monitor based on data provided by participating institutions
+- [COKI Open Access Dashboard](https://open.coki.ac/): An Open Access Dashboard for countries and institutions worldwide based on OpenAlex, Crossref Metadata, Unpaywall and ROR
+- [National Open Access Monitor Ireland](https://oamonitor.ireland.openaire.eu/national): An Open Access Monitor for Ireland based on OpenAIRE
+- [Hybrid Open Access Dashboard (HOAD)](https://subugoe.github.io/hoaddash/): A dashboard highlighting the extent to which hybrid journals are part of transformative agreements, based on Crossref, OpenAlex and other sources
+
+#### Knowledge maps based on open scholarly metadata databases
+
+- [Open Knowledge Maps](https://openknowledgemaps.org/index): A knowledge map based on PubMed or BASE
+- [SemOpenAlex Explorer](https://semopenalex.org/resource/semopenalex:UniversalSearch): A knowledge graph based on OpenAlex
+
+#### Further resources
+
+- [Curtis Open Knowledge Initiative - Open Metadata Report](https://github.com/Curtin-Open-Knowledge-Initiative/open-metadata-report): A report comparing open bibliometric databases at a global scale
+- [Data Quality in Scientometric Databases Datasets](https://github.com/almugabo/open_metadata/wiki/Data-Quality-in-Scientometric--Databases---Datasets): Bibliography and reading notes on Data Quality and Difference in Bibliometric Databases (until 2021)
+- [VOSviewer](https://www.vosviewer.com/): A software tool for constructing and visualizing bibliometric networks based on a selected source including OpenAlex, Crossref and Europe PMC

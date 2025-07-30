@@ -36,7 +36,3 @@ format:
     anchor-sections: false
     include-after-body: traffic.html # goatcounter
     email-obfuscation: references
-
-
-
-

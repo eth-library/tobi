@@ -2,13 +2,17 @@
 title: "Team"
 ---
 
-TOBI is a project hosted by the Knowledge Management Group at the ETH Library of ETH Zurich. The group is led by Dr. David Johann and since 2020 focuses on providing [scientometric services for the ETH community](https://library.ethz.ch/en/researching-and-publishing/analysing-scientific-output-and-impact.html). 
+TOBI is a project hosted by the group Research Analytics Service at the ETH Library of ETH Zurich. The group is led by Dr. David Johann and since 2020 focuses on providing [scientometric services for the ETH community](https://library.ethz.ch/en/researching-and-publishing/analysing-scientific-output-and-impact.html). 
 
 ## Project Team 
 
 ### Dr. Teresa Kubacka 
 
-Teresa is the project lead of TOBI. She is a data scientist with a background in physics. At the ETH Library since 2021 and with TOBI since its beginning. 
+Teresa is the project lead of TOBI. She is a data scientist with a background in physics. At the ETH Library since 2021 and with TOBI since its beginning.
+
+### Dr. David Johann 
+
+David is the other project lead of TOBI. He has a background in the social sciences and is head of Research Analytics Service at the ETH Library.
 
 ### Simon Willemin 
 
@@ -16,18 +20,24 @@ Simon is a data scientist with a double background in mathematics and humanities
 
 ### Mahmoud Hemila 
 
-Mahmoud is a data scientist with a background in information science and data archiving. He has been supporting the Knowledge Management group in scientometric analyses since 2020 and joined the project in 2023. 
+Mahmoud is a data scientist with a background in information science and data archiving. He has been supporting the group Research Analytics Service in scientometric analyses since 2020 and joined the project in 2023.
 
 ### Dr. Julian Dederke 
 
 Julian is a specialist in research data management, his background is political science. He is supporting the project as an analyst. 
+
+### Elisabeth Giryes 
+
+Elisabeth is currently pursuing her bachelor's degree in Computational Linguistics and Language Technology at the University of Zurich. As a student assistant, she is contributing to the project with her expertise in data engineering.
+
+### Michelle Koch 
+
+Michelle has a Bachelor's degree in Economics and Management and is currently pursuing a Master's degree in Applied Information and Data Science at HSLU. As a student assistant, she brings her data engineering skills to the project.
 
 
 ## Extended Team 
 
 Other people who support the project: 
 
-- Dr. David Johann, Knowledge Management, ETH Library 
-- Annette Guignard, Knowledge Management, ETH Library  
-- Dr. Roland Suri, Knowledge Management, ETH Library 
-
+- Annette Guignard, Research Analytics Service, ETH Library 
+- Dr. Roland Suri, Research Analytics Service, ETH Library 

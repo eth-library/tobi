@@ -4,7 +4,7 @@ title: "About"
 
 <!-- ## Plain language description  -->
 
-Towards Open Bibliometric Indicators (TOBI) is a project co-founded by the ETH Library and swissuniversities within the Open Science Program. The project has started in early 2023. The final results are planned to be published in late 2024. 
+Towards Open Bibliometric Indicators (TOBI) is a project co-founded by the ETH Library and swissuniversities within the Open Science Program. The project has started in early 2023 and ended in July 2025.
 
 
 ## Why TOBI?
